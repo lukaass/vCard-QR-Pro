@@ -1,0 +1,6 @@
+{
+  "name": "vCard QR Pro - Leitor & Exportador de Contatos",
+  "description": "Plataforma interativa para leitura de arquivos .vcf (vCard), exibição em tabela dinâmica e geração instantânea de QR Code para exportação rápida no celular.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
